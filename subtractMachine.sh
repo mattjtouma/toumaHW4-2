@@ -1,4 +1,4 @@
-\#!/bin/bash
+#!/bin/bash
 
 # CPE 522 HW 4 Problem 2
 # Matthew J. Touma
